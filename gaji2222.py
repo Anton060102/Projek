@@ -1,5 +1,5 @@
 #-------------------------------------------
-#Program		: Enployee Income
+#Program		: Enployee Income 
 #Kelompok		: IV (Empat)
 #kelas			: 17.1A.25
 #Mata Kuliah	: Dasar Pemrograman
